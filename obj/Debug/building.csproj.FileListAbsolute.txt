@@ -1,0 +1,6 @@
+C:\Users\Bollapragada.P\source\repos\building\bin\building.dll.config
+C:\Users\Bollapragada.P\source\repos\building\bin\building.dll
+C:\Users\Bollapragada.P\source\repos\building\bin\building.pdb
+C:\Users\Bollapragada.P\source\repos\building\obj\Debug\building.csprojAssemblyReference.cache
+C:\Users\Bollapragada.P\source\repos\building\obj\Debug\building.dll
+C:\Users\Bollapragada.P\source\repos\building\obj\Debug\building.pdb
